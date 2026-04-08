@@ -134,7 +134,10 @@ Total project cost: approximately $15-25 (covered by AWS free tier credits)
 
 ## Author
 
-**Aniket Kulkarni** - [GitHub](https://github.com/AniketKulkarni19)
+**Aniket Kulkarni** 
+- [GitHub](https://github.com/AniketKulkarni19)
+- [LinkedIn](https://www.linkedin.com/in/aniketkulkarni13/)
+- [Portfolio](https://aniketkulkarni.carrd.co/)
 
 ## License
 
